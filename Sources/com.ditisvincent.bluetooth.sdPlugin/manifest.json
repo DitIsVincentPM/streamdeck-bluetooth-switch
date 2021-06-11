@@ -2,13 +2,13 @@
   "Actions": [
     {
       "Icon": "action/images/actionimage", 
-      "Name": "Example Action", 
+      "Name": "Bluetooth Switch Device", 
       "States": [
         {
           "Image": "action/images/action"
         }
       ], 
-      "Tooltip": "This is an example tooltip", 
+      "Tooltip": "This action will switch the bluetooth device your connected to.", 
       "UUID": "com.elgato.template.action"
     }
   ], 
